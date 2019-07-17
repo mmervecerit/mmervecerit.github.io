@@ -1,4 +1,4 @@
-# mmervecerit.github.io
+#URLs
 
 Intelligent Kiosk
 
