@@ -8,11 +8,13 @@ Microsoft Store: https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd8
 
 Demolar: Cognitive Search Explorer, Video Indexer, QnA Bot Explorer, Realtime Driver Monitoring, Realtime Video Insights
 
+
 Face API Demo
 
 Azure Portal: Create Computer Vision and Face to use subscription-key and location
 
 Github: Cognitive Services Demo - https://github.com/gpeipman/CognitiveServicesDemo
+
 
 Custom Vision Demo
 
@@ -22,6 +24,7 @@ Documentation to use an ONNX model exported from the Custom Vision service: http
 services/custom-vision-service/custom-vision-onnx-windows-ml
 
 Github: https://github.com/Azure-Samples/cognitive-services-onnx12-customvision-sample/
+
 
 Contoso Shop Manager
 
