@@ -1,4 +1,4 @@
-#URLs
+# Links
 
 Intelligent Kiosk
 
